@@ -1,3 +1,4 @@
+
 body
 {
     box-sizing: border-box;
@@ -12,7 +13,7 @@ body
 {
     background-color: black;
     height: 2px;
-    text-align: center;
+    
 }
 .class2
 {
@@ -32,7 +33,7 @@ body
 {
     background: black;
     width: 2px;
-    height: 240px;
+      margin-bottom: 50px;
     margin-top: 30px;
 }
 .col1,.col2,.col3
@@ -62,6 +63,8 @@ body
 {
     margin-left: 10px;
     display: flex;
+    padding: 0;
+    margin: 0;
 }
 .conimg
 {
